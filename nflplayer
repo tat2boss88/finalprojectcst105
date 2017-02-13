@@ -1,0 +1,17 @@
+public class NFL {
+   String playername;
+   int 
+   String;
+
+   void receivingyards() {
+   }
+
+   void rushingyards() {
+   }
+
+   void interceptions() {
+   }
+}
+public class paassingyards {
+
+}
